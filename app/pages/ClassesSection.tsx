@@ -329,7 +329,7 @@ export default function ClassesSection() {
 						<div className="bg-white/40 backdrop-blur-lg rounded-2xl overflow-hidden shadow-lg border border-indigo-lavender/20">
 							<div className="h-96 md:h-[70vh] lg:h-[90vh] overflow-hidden">
 								<img
-									src="/images/indigo_1.png"
+									src="/indigo_1.png"
 									alt="Horarios - Índigo Yoga Holístico"
 									className="w-full h-full object-cover object-center hover:scale-105 transition-transform duration-700"
 								/>
@@ -338,7 +338,7 @@ export default function ClassesSection() {
 						<div className="bg-white/40 backdrop-blur-lg rounded-2xl overflow-hidden shadow-lg border border-indigo-lavender/20">
 							<div className="h-96 md:h-[70vh] lg:h-[90vh] overflow-hidden">
 								<img
-									src="/images/indigo_2.png"
+									src="/indigo_2.png"
 									alt="Valores - Índigo Yoga Holístico"
 									className="w-full h-full object-cover object-center hover:scale-105 transition-transform duration-700"
 								/>
