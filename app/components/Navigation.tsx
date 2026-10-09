@@ -64,6 +64,12 @@ export default function Navigation() {
                             Holístico
                         </button>
                         <button
+                            onClick={() => scrollToSection('formacion')}
+                            className="text-indigo-dark hover:text-indigo-purple transition-all duration-300 hover:scale-105 text-base font-medium"
+                        >
+                            Formación
+                        </button>
+                        <button
                             onClick={() => scrollToSection('contacto')}
                             className="text-indigo-dark hover:text-indigo-purple transition-all duration-300 hover:scale-105 text-base font-medium"
                         >

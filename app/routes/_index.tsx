@@ -5,6 +5,7 @@ import PropositoSection from "~/pages/PropositoSection";
 import ClassesSection from "~/pages/ClassesSection";
 import CorporateSection from "~/pages/CorporateSection";
 import HolisticoSection from "~/pages/HolisticoSection";
+import FormacionSection from "~/pages/FormacionSection";
 import ContactSection from "~/pages/ContactSection";
 import Footer from "~/components/Footer";
 import FloatingButtons from "~/components/FloatingButtons";
@@ -29,6 +30,7 @@ export default function Index() {
       <ClassesSection />
       <CorporateSection />
       <HolisticoSection />
+      <FormacionSection />
       <ContactSection />
       <Footer />
       <FloatingButtons />
